@@ -1,7 +1,7 @@
 staticDev
 =========
 
-##Static Node Web Server
+###Static Node Web Server
 ------------
 
 This is the node server I use to develop static web documents. 
